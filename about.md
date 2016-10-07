@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I graduated from UIUC in 2016 with a Bachelor's degree of science in Electrical Engineering. I currently live in Chicago, IL and work at IBM.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+- Traveling
+- Cooking & Baking
+- Reading
+- Music & Making Music
+- Work out (due to guilt from excessive eating)
+- Interior Design
+- Languages
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pitcha.mt@gmail.com](mailto:pitcha.mt@gmail.com)
