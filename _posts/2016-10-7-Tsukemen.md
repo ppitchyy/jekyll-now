@@ -9,7 +9,7 @@ This is a picture of tsukemen I made this past week.
 
 * Servings: 2
 * Ingredients
-  - 1 bag of Soba noodles.
+  - 1 bag of Soba noodles
   - 400ml Chinese-style Chicken Stock
   - 2 tbsp Mirin/Sake
   - A piece of Ginger root about 2-3 inches long
