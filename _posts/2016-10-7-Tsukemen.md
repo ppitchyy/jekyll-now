@@ -5,7 +5,7 @@ title: Tsukemen
 
 This is a picture of tsukemen I made this past week.
 
-![tsukemen1]({{ site.baseurl }}/images/tsukemen1.JPG "Pork tsukemen")
+![Tsukemen](/images/tsukemen1.JPG)
 
 * Servings: 2
 * Ingredients
@@ -23,4 +23,4 @@ This is a picture of tsukemen I made this past week.
   - Chopped Spring Onion Leaves
   - Chopped Japanese Seaweed
   - A sprinkle of roasted white sesame seeds
-* Base recipe: courtesy of Cooking With Dog's YouTube channel. I modified their recipe a little bit due to the lack of certain ingredients.
+* Base recipe: courtesy of Cooking With Dog's [YouTube video](https://www.youtube.com/watch?v=Dn2Gs5OphV0). I modified their recipe a little bit due to the lack of certain ingredients.
