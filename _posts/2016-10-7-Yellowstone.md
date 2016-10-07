@@ -3,7 +3,7 @@ layout: post
 title: Yellowstone
 ---
 
-I visited Yellowstone this past May.
+I visited Yellowstone in May.
 
 ![Lower Falls](/images/yellowstone-1.jpg)
 ![Geysers](/images/yellowstone-2.jpg)
