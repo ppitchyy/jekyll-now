@@ -21,4 +21,6 @@ This is a picture of tsukemen I made this past week.
   - 1 tsp Togarashi Spice
   - 1 Soft Boiled Egg
   - Chopped Spring Onion Leaves
+  - Chopped Japanese Seaweed
+  - A sprinkle of roasted white sesame seeds
 * Base recipe: courtesy of Cooking With Dog's YouTube channel. I modified their recipe a little bit due to the lack of certain ingredients.
