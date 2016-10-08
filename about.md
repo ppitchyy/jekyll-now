@@ -9,12 +9,15 @@ I graduated from UIUC in 2016 with a Bachelor's degree of science in Electrical 
 ### Interests
 
 - Traveling
+- Outdoor Activities
 - Cooking & Baking
 - Reading
 - Music & Making Music
 - Fitness (due to guilt from excessive eating)
 - Interior Design
 - Languages
+- Problem Solving
+- History & Cultures, particularly of Japan & Mongolia
 
 ### Contact me
 
