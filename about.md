@@ -12,7 +12,7 @@ I graduated from UIUC in 2016 with a Bachelor's degree of science in Electrical 
 - Cooking & Baking
 - Reading
 - Music & Making Music
-- Work out (due to guilt from excessive eating)
+- Fitness (due to guilt from excessive eating)
 - Interior Design
 - Languages
 
