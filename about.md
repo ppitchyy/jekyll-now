@@ -15,6 +15,7 @@ I graduated from UIUC in 2016 with a Bachelor's degree of science in Electrical 
 - Music & Making Music
 - Fitness (due to guilt from excessive eating)
 - Interior Design
+- Technology
 - Languages
 - Problem Solving
 - History & Cultures, particularly of Japan & Mongolia
