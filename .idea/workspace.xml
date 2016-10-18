@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91438f8f-1bb6-43ad-a249-e1a10cbd87af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-10-17-Thaitea-Roti.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/thairoti-1.JPG" afterPath="$PROJECT_DIR$/images/thairoti-1.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-17-Thaitea-Roti.md" afterPath="$PROJECT_DIR$/_posts/2016-10-17-Thaitea-Roti.md" />
     </list>
     <ignored path="ppitchyy-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,8 +99,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="274">
-                <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <first_editor relative-caret-position="214">
+                <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -688,8 +689,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="274">
-            <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <first_editor relative-caret-position="214">
+            <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor />

@@ -29,9 +29,7 @@ A Thai friend came over. We missed Thailand. We craved Thai dessert. We made Tha
 6. Divide the roti mixture into 8 small, spherical balls. Brush some vegetable oil on them and let them sit for an hour.
 7. Brush some oil onto a large plate (or whatever you want to roll/shape the roti on).
 8. Roll the roti onto the plate into a thin-layered, circular-shaped sheet. 
-
-![Thai Roti](/images/thairoti-1.JPG) 
-
+        ![Thai Roti](/images/thairoti-1.JPG)         
 9. Add oil to the pan and turn on medium-high heat.
 10. Fry the roti. Fold the curves inwards to make a square. Flip when the pan-facing side turns light brown. Remove when the other side is also done.
 11. Top the roti with some sugar, butter, and condensed milk. Now it's done :D
