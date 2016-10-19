@@ -3,7 +3,7 @@ layout: post
 title: Tsukemen
 ---
 
-This is a picture of tsukemen I made this past week.
+This is one of my favorite recipes, recently.
 
 ![Tsukemen](/images/tsukemen1.JPG)
 
