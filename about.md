@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I graduated from UIUC in 2016 with a Bachelor's degree of science in Electrical Engineering. I currently live in Chicago, IL and work at IBM.
+I was born in Thailand, raised in Bangkok, went to UIUC and graduated in 2016 with a B.S. degree in Electrical Engineering. I currently live in Chicago, IL and work at IBM.
 
 ### Interests
 
-- Traveling
-- Outdoor Activities
-- Food, Cooking & Baking
-- Reading
-- Music & Making Music
+- Traveling: I've been to 20 countries as of 2016 and I've already lost count of cities
+- Outdoor Activities: Hiking, biking, BBQ-ing, snorkeling, mountain climbing, scuba diving, skiing, etc. bring it on
+- Food, Cooking & Baking: Follow my [instagram](https://www.instagram.com/ppitchyy) for my latest dishes! 
+- Reading: I'm into non-fictions and surreal genres like Murakami
+- Music & Making Music: I play guitar and piano, pretty classic
 - Fitness (due to guilt from excessive eating)
 - Interior Design
 - Technology
-- Languages
+- Languages (Japanese, Chinese, Spanish)
 - Problem Solving
-- History & Cultures, particularly of Japan & Mongolia
+- Weiiiird history & cultures
 
 ### Contact me
 
-[pitcha.mt@gmail.com](mailto:pitcha.mt@gmail.com)
+[pitcha.mt@gmail.com](mailto:pitcha.mt@gmail.com) no spam and lame offers plz
