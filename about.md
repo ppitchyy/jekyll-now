@@ -9,10 +9,10 @@ I was born in Thailand, raised in Bangkok, went to UIUC and graduated in 2016 wi
 ### Interests
 
 - Traveling: I've been to 20 countries as of 2016 and I've already lost count of cities
-- Outdoor Activities: Hiking, biking, BBQ-ing, snorkeling, mountain climbing, scuba diving, skiing, etc. bring it on
-- Food, Cooking & Baking: Follow my [instagram](https://www.instagram.com/ppitchyy) for my latest dishes! 
+- Outdoor Activities: Hiking, biking, BBQ-ing, snorkeling, camping, mountain climbing, fruit picking (uhuh) scuba diving, skiing, caving, etc. bring it on
+- Food, Cooking & Baking: Follow [instagram](https://www.instagram.com/ppitchyy) for my latest dishes! 
 - Reading: I'm into non-fictions and surreal genres like Murakami
-- Music & Making Music: I play guitar and piano, pretty classic
+- Music & Making Music: I play guitar and piano, and I'd love to play drums and bass
 - Fitness (due to guilt from excessive eating)
 - Interior Design
 - Technology
