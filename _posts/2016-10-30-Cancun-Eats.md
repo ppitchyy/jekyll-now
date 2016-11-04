@@ -3,6 +3,8 @@ layout: post
 title: Cancun Eats
 ---
 
+Collection from our food adventure in Cancun.
+
 ![Seafood Cocktail](/images/cancunfood-3.jpg)
 ![Xcaret food](/images/cancunfood-4.jpg)
 ![Takeout](/images/cancunfood-1.jpg)
