@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Yellowstone
+title: Yellowstone Photography
 ---
 
-I visited Yellowstone in May.
+Visiting Yellowstone National Park in May 2016
 
 ![Lower Falls](/images/yellowstone-1.jpg)
 ![Geysers](/images/yellowstone-2.jpg)

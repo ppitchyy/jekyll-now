@@ -3,7 +3,7 @@ layout: post
 title: Tsukemen
 ---
 
-This is one of my favorite recipes, recently.
+This is one of my favorite ramen recipes
 
 ![Tsukemen](/images/tsukemen1.JPG)
 
@@ -23,4 +23,4 @@ This is one of my favorite recipes, recently.
   - Chopped Spring Onion Leaves
   - Chopped Japanese Seaweed
   - A sprinkle of roasted white sesame seeds
-* Base recipe: courtesy of Cooking With Dog's [YouTube video](https://www.youtube.com/watch?v=Dn2Gs5OphV0). I modified their recipe a little bit due to the lack of certain ingredients.
+* Base recipe: courtesy of Cooking With Dog's [YouTube video](https://www.youtube.com/watch?v=Dn2Gs5OphV0). I modified their recipe a little bit due to the lack of certain ingredients... still turned out really well though.

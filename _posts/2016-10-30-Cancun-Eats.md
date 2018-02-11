@@ -9,7 +9,7 @@ Collection from our food adventure in Cancun.
 ![Xcaret food](/images/cancunfood-4.jpg)
 ![Takeout](/images/cancunfood-1.jpg)
 ![Instant noodles](/images/cancunfood-2.jpg)
-Yes. There was literally nothing better to eat in Chichen Itza. 
+Yup. This was the best (affordable) option available in Chichen Itza. 
 ![Ceviche Playa del Carmen](/images/cancunfood-5.jpg)
 ![Kinder Bueno Churro](/images/cancunfood-6.jpg)
 ![Los de Pescados 1](/images/cancunfood-7.jpg)

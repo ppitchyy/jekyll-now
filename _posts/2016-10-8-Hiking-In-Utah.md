@@ -3,7 +3,7 @@ layout: post
 title: Hiking in Utah
 ---
 
-Pictures taken by iPhone 6 and Olympus OM-D EM-5 Mark II, at Arches National Park and Zion National Park.
+Visiting Arches National Park and Zion National Park
 
 * Arches National Park
 ![Balanced Rock](/images/arches-balanced-rock.jpg)
