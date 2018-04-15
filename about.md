@@ -4,4 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a hardware engineer at [IBM Cloud Object Storage](https://www.ibm.com/cloud/object-storage) in Chicago, IL. I graduated with a Bachelor's Degree in Electrical Engineering from [University of Illinois at Urbana-Champaign](http://illinois.edu/). 
+Hi there! Welcome to the life of pitch :D not sure how you got here... but hope you enjoy reading my blog!
+
+### A bit more about pitch
+
+- Hardware engineer at [IBM Cloud](https://www.ibm.com/cloud/object-storage) in Chicago, IL
+- B.S. degree in Electrical Engineering from [University of Illinois at Urbana-Champaign](http://illinois.edu/)
+- Tech interests: software development, cloud storage technologies, machine learning, data science 
+- Passionate about food and traveling (20 countries and counting!)
+- Enjoys learning about different cultures, reading books, and occasionally playing music
