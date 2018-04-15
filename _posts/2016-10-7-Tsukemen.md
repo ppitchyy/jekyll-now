@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Tsukemen
+description: i stir the pot for hours but the ramen was worth it 
+tags: cooking food recipe
 ---
 
-This is one of my favorite ramen recipes
+This is currently one of my favorite ramen recipes
 
 ![Tsukemen](/images/tsukemen1.JPG)
 
