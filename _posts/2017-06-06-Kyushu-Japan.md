@@ -10,8 +10,9 @@ This is my third visit to Japan! Kyushu is the third island I've traveled to, an
 Our trip was a week total and I planned the route as following: 
 ![Kyushu Route](/images/kyushu-route.png)
 
-We flew into Fukuoka International Airport and stayed in Fukuoka the first three nights, doing day trips to Kumamoto, Kitakyushu, and Nagasaki respectively. On the fourth day we left Fukuoka to visit the famous Dazaifu Tenmangu shrine on our way to Yufuin, where we relaxed at the ryokan for the rest of the evening. We spent the next day biking around Yufuin then left to Beppu, then from Beppu we headed back to Fukuoka through the Kitakyushu route. All this was done by train, thanks to the convenience of [JR Kyushu Pass](http://www.jrkyushu.co.jp/english/railpass/railpass.html).
+Okay that does look pretty confusing. Basically, we flew into Fukuoka International Airport and stayed in Fukuoka the first three nights, doing day trips to Kumamoto, Kitakyushu, and Nagasaki respectively. On the fourth day we left Fukuoka to visit the famous Dazaifu Tenmangu shrine on our way to Yufuin, where we relaxed at the ryokan for the rest of the evening. We spent the next day biking around Yufuin then left to Beppu, then from Beppu we headed back to Fukuoka through the Kitakyushu route. All this was done by train, thanks to the convenience of [JR Kyushu Pass](http://www.jrkyushu.co.jp/english/railpass/railpass.html).
 
-Quick tip about the JR pass: to visit Kyushu you need the JR Kyushu Pass specifically, and those cannot be used in Honshu if you are coming from/to Tokyo. Since my trip only covered the northern cities of Kyushu, we bought the passes for specific "Northern Kyushu Area Pass" so you could save up to 8000Y if it works out with your itinerary! 
+Quick tip about the JR pass: to visit Kyushu you need the JR Kyushu Pass specifically, and those cannot be used in Honshu if you are coming from/to Tokyo. Since my trip only covered the northern cities of Kyushu, we bought the passes for just those area, so you could save up to 8000Y if it works out with your itinerary! 
 
-
+* Day 1: Fukuoka --> Kumamoto
+  - Landing at 7am in Hakata, we started our day right away after cleaning up at our Airbnb in Tenjin. :+1: 
