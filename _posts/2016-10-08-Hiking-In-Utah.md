@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hiking in Utah
+description: i really like red rocks 
+tags: travel hiking photography 
 ---
 
 Visiting Arches National Park and Zion National Park

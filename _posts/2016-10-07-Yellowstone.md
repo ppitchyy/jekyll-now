@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Yellowstone Photography
+title: Supposedly Summer in Yellowstone
+description: TIL bisons can cause a lot of traffic 
+tags: travel hiking photography 
 ---
 
 Visiting Yellowstone National Park in May 2016

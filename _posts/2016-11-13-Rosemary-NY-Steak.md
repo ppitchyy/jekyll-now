@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Rosemary NY Strip Steak
+description: courtesy of mariano's opening sales
+tags: cooking food 
 ---
 
 Mariano's in my area just opened last week!

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Thai-style Roti
+description: arms sore from punching the roti mixture  
+tags: cooking food 
 ---
 
 Did I really spend three hours doing this

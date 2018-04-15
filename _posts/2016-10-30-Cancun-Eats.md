@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Cancun Eats
+description: un taco más por favor
+tags: travel photography food 
 ---
 
-Collection from our food adventure in Cancun.
+Collection of our food adventures in Cancun.
 
 ![Seafood Cocktail](/images/cancunfood-3.jpg)
 ![Xcaret food](/images/cancunfood-4.jpg)
