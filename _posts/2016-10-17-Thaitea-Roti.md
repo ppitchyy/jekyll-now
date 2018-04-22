@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thai-style Roti
-description: arms sore from punching the roti mixture  
+description: arms sore from punching the roti mixture 👩‍🍳  
 tags: cooking food 
 ---
 

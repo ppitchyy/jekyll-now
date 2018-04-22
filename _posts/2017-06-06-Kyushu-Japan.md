@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kyushu Part 1 
-description: third time's a charm 
+description: third time's a charm 🗾
 tags: travel photography food 
 ---
 

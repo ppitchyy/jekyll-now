@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cancun Eats
-description: un taco más por favor
+description: un taco más por favor 🌮
 tags: travel photography food 
 ---
 

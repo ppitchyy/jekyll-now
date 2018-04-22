@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kyushu Photography
-description: searching for inner peace
+description: searching for inner peace ⛩️
 tags: travel photography 
 ---
 

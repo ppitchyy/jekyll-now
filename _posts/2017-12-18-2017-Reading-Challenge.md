@@ -1,14 +1,16 @@
 ---
 layout: post
-title: 2017 Reading Challenge 
-description: 130% completed
+title: 2017 Reading Challenge
+description: 130% completed 📚
 tags: books reading 
 ---
 
-Back in the teenage days, I'd always been a bookworm. Needless to say, I barely had time to read throughout college, so it was one of my major goals to get back into reading once I start working... well, technically I graduated last year but my 2016 reading challenge was a flop since it was hard to make reading a habit again. So I pulled myself together and started easy with a goal of 30 books. It's not a lot, but I gotta start somewhere right? 🤷🏻📈 
+My first successful reading challenge, wooo! 🙌 
+
+Back in the teenage days, I'd always been a bookworm. Needless to say, I barely had time to read throughout college, so it was one of my major goals to get back into reading once I have a 9-5 schedule. To be honest, my first attempt was last year but I struggled trying to make reading a habit again so tl;dr my 2016 reading challenge was a flop. I decided to start over with a goal of 30 books. It's not a lot, but I gotta start somewhere right? 🤷🏻📈 
 
 * Goal: 30 books 🙂
-* Read: 39 books 🙌
+* Read: 39 books 😃
 
 Favorite non-fictions:
 

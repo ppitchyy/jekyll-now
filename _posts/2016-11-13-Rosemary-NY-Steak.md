@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rosemary NY Strip Steak
-description: courtesy of mariano's opening sales
+description: courtesy of mariano's opening sales 🥩
 tags: cooking food 
 ---
 

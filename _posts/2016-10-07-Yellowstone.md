@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supposedly Summer in Yellowstone
-description: TIL bisons can cause a lot of traffic 
+description: TIL bisons can cause a lot of traffic 🏞️
 tags: travel hiking photography 
 ---
 
