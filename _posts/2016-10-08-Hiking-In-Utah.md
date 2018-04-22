@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking in Utah
-description: i really like red rocks 🧗‍♀️
+description: i really like red rocks 🧗‍
 tags: travel hiking photography 
 ---
 
